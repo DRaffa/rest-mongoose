@@ -17,5 +17,5 @@ app.listen(process.env.PORT, async () => {
         useUnifiedTopology: true
         });
     
-    console.log('API Iniciada')
+    console.log('API Iniciada Pronto Para Execução');
 })
