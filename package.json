@@ -1,11 +1,11 @@
 {
-  "name": "11-rest-mongoose",
+  "name": "rest-mongoose",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node --experimental-modules app.js"
   },
   "keywords": [],
   "author": "",
